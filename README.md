@@ -21,14 +21,6 @@ You can find the codebase here: [GitHub Repository](https://github.com/kirtanpat
 - **Custom Font Integration**: Two custom fonts—Fredoka and Laviossa—are used to enhance the overall aesthetic.
 - **Dynamic Hamburger Menu**: For smaller screens, a hamburger menu is available that can be toggled to show or hide the navigation items.
 
-## 🖼️ Screenshots
-
-### Home Section
-![Home Section](./images/ichiraku.webp)
-
-### Menu Section
-![Menu Banner](./images/banner/scroll1.webp)
-
 ## 📦 Installation
 
 To run the project locally:
